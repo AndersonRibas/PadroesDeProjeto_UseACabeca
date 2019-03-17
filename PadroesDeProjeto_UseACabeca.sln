@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadroesDeProjeto_UseACabeca", "PadroesDeProjeto_UseACabeca\PadroesDeProjeto_UseACabeca.csproj", "{B7CF929F-2932-4521-BB9C-5C72768F7276}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterDuck", "tester\TesterDuck.csproj", "{FABBEB40-B2C1-4101-8BF9-161F6B514F21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B7CF929F-2932-4521-BB9C-5C72768F7276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7CF929F-2932-4521-BB9C-5C72768F7276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7CF929F-2932-4521-BB9C-5C72768F7276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABBEB40-B2C1-4101-8BF9-161F6B514F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABBEB40-B2C1-4101-8BF9-161F6B514F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABBEB40-B2C1-4101-8BF9-161F6B514F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABBEB40-B2C1-4101-8BF9-161F6B514F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PadroesDeProjeto_UseACabeca
+namespace PadroesDeProjeto_UseACabeca.Duck
 {
-    public class Class1
+    public interface FlyBehavior
     {
+        void Fly();
     }
 }
